@@ -1,0 +1,28 @@
+iPhone -> Samsung
+Lenevo -> Samsung
+Nokia -> Samsung
+LG -> Samsung
+Lenevo Nokia -> iPhone
+Lenevo LG -> iPhone
+Nokia LG -> iPhone
+Lenevo Nokia -> Samsung
+Lenevo LG -> Samsung
+Nokia LG -> Samsung
+Nokia LG -> Lenevo
+Lenevo Nokia ->  LG
+Samsung Lenevo Nokia -> iPhone
+Lenevo Nokia -> iPhone Samsung
+Samsung Lenevo LG -> iPhone
+Lenevo LG -> iPhone Samsung
+Samsung Nokia LG -> iPhone
+Nokia LG -> iPhone Samsung
+Lenevo Nokia LG -> iPhone
+Nokia LG -> iPhone Lenevo
+iPhone Lenevo Nokia ->  LG
+Lenevo Nokia LG -> Samsung
+Nokia LG -> Samsung Lenevo
+Samsung Lenevo Nokia ->  LG
+Samsung Lenevo Nokia LG -> iPhone
+Lenevo Nokia LG -> iPhone Samsung
+Nokia LG -> iPhone Samsung Lenevo
+iPhone Samsung Lenevo Nokia ->  LG
